@@ -11,3 +11,5 @@
 *.so
 *.bin
 
+# vim stuf
+*.un~
