@@ -1,0 +1,13 @@
+# TF stuff
+*.tflite
+*.pb
+
+
+# Python stuff
+*.pkl
+
+
+# compiled stuff
+*.so
+*.bin
+
